@@ -1,4 +1,4 @@
-# csn-predictivemaintenanceiot-ttm-reactjs 123
+# csn-predictivemaintenanceiot-ttm-reactjs
 ## 📋 Hướng dẫn Đánh giá Code Tự động cho Sinh viên
 
 ### 🎯 Mục tiêu
